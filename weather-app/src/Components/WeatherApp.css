@@ -1,0 +1,12 @@
+.search_bar input::placeholder {
+    color: #fff;
+}
+
+.search_bar input:focus::placeholder {
+    color: transparent;
+}
+
+.weather img {
+    max-width: 150px;
+    height: auto;
+}
